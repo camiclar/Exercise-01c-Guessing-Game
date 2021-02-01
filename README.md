@@ -47,7 +47,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-01c-Guessing-Game
-Exercise for MSCH-C220, 27 January 2020
+Exercise for MSCH-C220, 1 February 2020
 
 Two versions of a guessing game, written in Python
 
@@ -61,5 +61,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Camilla Clark
 ```
